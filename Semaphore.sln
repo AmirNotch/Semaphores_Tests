@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "Semaphore\Semaphore.csproj", "{612607E1-E5DD-47E8-A649-B90DB0DB1F4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F8FF6D64-49F9-4188-8935-0C5F5F273E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreTest", "SemaphoreTest\SemaphoreTest.csproj", "{CC786035-1B08-488D-BA8F-6C4F72AEAF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612607E1-E5DD-47E8-A649-B90DB0DB1F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612607E1-E5DD-47E8-A649-B90DB0DB1F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612607E1-E5DD-47E8-A649-B90DB0DB1F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612607E1-E5DD-47E8-A649-B90DB0DB1F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC786035-1B08-488D-BA8F-6C4F72AEAF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC786035-1B08-488D-BA8F-6C4F72AEAF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC786035-1B08-488D-BA8F-6C4F72AEAF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC786035-1B08-488D-BA8F-6C4F72AEAF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC786035-1B08-488D-BA8F-6C4F72AEAF17} = {F8FF6D64-49F9-4188-8935-0C5F5F273E97}
+	EndGlobalSection
+EndGlobal
